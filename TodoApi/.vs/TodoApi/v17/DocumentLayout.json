@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBD5BE-42D0-4E08-9E9B-EA20370F9E17}|TodoApi.Tests\\TodoApi.Tests.csproj|c:\\users\\timmy\\onedrive\\skrivebord\\tbm23\\todoapi\\todoapi.tests\\todotaskserviceaddtasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBD5BE-42D0-4E08-9E9B-EA20370F9E17}|TodoApi.Tests\\TodoApi.Tests.csproj|solutionrelative:todoapi.tests\\todotaskserviceaddtasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBD5BE-42D0-4E08-9E9B-EA20370F9E17}|TodoApi.Tests\\TodoApi.Tests.csproj|c:\\users\\timmy\\onedrive\\skrivebord\\tbm23\\todoapi\\todoapi.tests\\todotaskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBD5BE-42D0-4E08-9E9B-EA20370F9E17}|TodoApi.Tests\\TodoApi.Tests.csproj|solutionrelative:todoapi.tests\\todotaskservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|c:\\users\\timmy\\onedrive\\skrivebord\\tbm23\\todoapi\\todoapi\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|c:\\users\\timmy\\onedrive\\skrivebord\\tbm23\\todoapi\\todoapi\\services\\todotaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\services\\todotaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBD5BE-42D0-4E08-9E9B-EA20370F9E17}|TodoApi.Tests\\TodoApi.Tests.csproj|c:\\users\\timmy\\onedrive\\skrivebord\\tbm23\\todoapi\\todoapi.tests\\mockextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBD5BE-42D0-4E08-9E9B-EA20370F9E17}|TodoApi.Tests\\TodoApi.Tests.csproj|solutionrelative:todoapi.tests\\mockextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|c:\\users\\timmy\\onedrive\\skrivebord\\tbm23\\todoapi\\todoapi\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|c:\\users\\timmy\\onedrive\\skrivebord\\tbm23\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A5990-A8B4-42C2-B722-B932C8C9B7F2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoTaskServiceAddTaskTests.cs",
+              "DocumentMoniker": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi.Tests\\TodoTaskServiceAddTaskTests.cs",
+              "RelativeDocumentMoniker": "TodoApi.Tests\\TodoTaskServiceAddTaskTests.cs",
+              "ToolTip": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi.Tests\\TodoTaskServiceAddTaskTests.cs",
+              "RelativeToolTip": "TodoApi.Tests\\TodoTaskServiceAddTaskTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:21:53.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:20:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoTaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Services\\TodoTaskService.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Services\\TodoTaskService.cs",
+              "ToolTip": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Services\\TodoTaskService.cs",
+              "RelativeToolTip": "TodoApi\\Services\\TodoTaskService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:06:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Data\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoApi\\Data\\TodoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:58:30.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi.Tests\\MockExtensions.cs",
+              "RelativeDocumentMoniker": "TodoApi.Tests\\MockExtensions.cs",
+              "ToolTip": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi.Tests\\MockExtensions.cs",
+              "RelativeToolTip": "TodoApi.Tests\\MockExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:52:16.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Models\\TodoTask.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoTask.cs",
+              "ToolTip": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi\\Models\\TodoTask.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:47:53.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoTaskServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi.Tests\\TodoTaskServiceTests.cs",
+              "RelativeDocumentMoniker": "TodoApi.Tests\\TodoTaskServiceTests.cs",
+              "ToolTip": "C:\\Users\\Timmy\\OneDrive\\Skrivebord\\TBM23\\TodoApi\\TodoApi.Tests\\TodoTaskServiceTests.cs",
+              "RelativeToolTip": "TodoApi.Tests\\TodoTaskServiceTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:46:05.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
